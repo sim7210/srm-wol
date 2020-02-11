@@ -1,0 +1,191 @@
+body {
+    margin: 0;
+    font-style: Impact;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .y {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  
+  .top {
+    padding: 180px 0 100px 0;
+    background-image: url(https://covermaterial.com/quotes/wp-content/uploads/2017/08/5604large-1.jpeg);
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+    font-style: Impact;
+  }
+  
+  .top h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .top p {
+    opacity: 0.7;
+    margin-bottom: 3px;
+  }
+  
+  .link {
+    margin: 20px 0;
+  }
+  
+  .link p {
+    margin: 10px 0;
+  }
+  
+  .sub {
+    background-color: lightblue;
+  }
+  
+  .c {
+    background-color: lightseagreen;
+    margin-right: 10px;
+  }
+  
+  .Q {
+    background-color: lightsalmon;
+  }
+  
+  .btn {
+    padding: 12px 24px;
+    color :whitesmoke;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    font-style: Impact;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+  
+  .fa {
+    margin-right: 5px;
+  }
+
+  .logo {
+    width: 125px;
+    margin-top: 20px;
+  }
+  
+  header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(69, 71, 71, 0.9);
+    position:fixed;
+    top:0;
+    z-index:10;
+    font-style: Impact;
+    
+  }
+  
+  .headerl {
+    float: left;
+  }
+  
+  ul {
+    
+    list-style-type: none;
+    background-color: black;
+  }
+  
+  li {
+    float: right;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0 30px;
+    line-height: 65px;
+    text-decoration: none;
+    display: inline;
+    transition: all 0.5s;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .part {
+    height: 500px;
+    padding-bottom: 80px;
+    background-image: url(https://covermaterial.com/quotes/wp-content/uploads/2017/08/5604large-1.jpeg);
+    text-align: center;
+  }
+  
+  .heading {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: whitesmoke;
+  }
+  
+  .heading h2 {
+    font-weight: normal;
+  }
+  
+  .part1 {
+    float: left;
+    width: 25%;
+  }
+  
+  .det {
+    position: relative;
+  }
+  
+  .det p {
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    color: black;
+  }
+  
+  .exp {
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    color:whitesmoke;
+  }
+  
+  .heading h3 {
+    font-weight: normal;
+  }
+  
+  .end {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  
+  .an {
+    padding: 15px 40px;
+    background-color:maroon;
+    cursor: pointer;
+    box-shadow: 0 7px gray;
+  }
+  
+  .an:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+  }
+  
+  footer p {
+    color: #b3aeb5;
+    font-size: 12px;
+  }
+  
+  footer {
+    padding-top: 30px;
+  }
